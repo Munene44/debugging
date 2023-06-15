@@ -1,0 +1,15 @@
+/home/kelvin/Desktop/debugging/bin/Debug/net6.0/debugging
+/home/kelvin/Desktop/debugging/bin/Debug/net6.0/debugging.deps.json
+/home/kelvin/Desktop/debugging/bin/Debug/net6.0/debugging.runtimeconfig.json
+/home/kelvin/Desktop/debugging/bin/Debug/net6.0/debugging.dll
+/home/kelvin/Desktop/debugging/bin/Debug/net6.0/debugging.pdb
+/home/kelvin/Desktop/debugging/obj/Debug/net6.0/debugging.csproj.AssemblyReference.cache
+/home/kelvin/Desktop/debugging/obj/Debug/net6.0/debugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/kelvin/Desktop/debugging/obj/Debug/net6.0/debugging.AssemblyInfoInputs.cache
+/home/kelvin/Desktop/debugging/obj/Debug/net6.0/debugging.AssemblyInfo.cs
+/home/kelvin/Desktop/debugging/obj/Debug/net6.0/debugging.csproj.CoreCompileInputs.cache
+/home/kelvin/Desktop/debugging/obj/Debug/net6.0/debugging.dll
+/home/kelvin/Desktop/debugging/obj/Debug/net6.0/refint/debugging.dll
+/home/kelvin/Desktop/debugging/obj/Debug/net6.0/debugging.pdb
+/home/kelvin/Desktop/debugging/obj/Debug/net6.0/debugging.genruntimeconfig.cache
+/home/kelvin/Desktop/debugging/obj/Debug/net6.0/ref/debugging.dll
